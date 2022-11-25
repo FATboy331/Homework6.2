@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_size">16dp</dimen>
+    <dimen name="btn_size">160dp</dimen>
+    <dimen name="item_size_tv">18sp</dimen>
+    <dimen name="item_size_height">28dp</dimen>
+</resources>
